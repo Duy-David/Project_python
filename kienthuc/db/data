@@ -1,0 +1,8 @@
+
+--select
+--select * from sinhvien
+select * from sinhvien where sinhvien.diemtb>7;
+--insert
+insert into sinhvien(masv,hovaten,diemtb) values("05","Tran van A",9)
+-- update
+-- delete
